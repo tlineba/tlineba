@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @tlineba
-- 👀 I’m interested in Linux Pop! OS, C++ 
+- 👀 I’m interested in Raspberry Pi Zero, Linux Pop! OS, C++ 
 - 🌱 I’m currently learning Boost library, GSL, wxWidgets, etc.
